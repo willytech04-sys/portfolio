@@ -4,7 +4,7 @@ body { font-family:'Segoe UI',sans-serif; background-color:var(--bg-color); colo
 
 .navbar, footer { transition:0.3s; }
 .nav-link i { margin-right:10px; }
-.nav-link:hover { color: var(--accent-color); transform: translateY(-2px); transition:0.3s; active:var(--accent-color);}
+.nav-link:hover { color: var(--accent-color); transform: translateY(-2px); transition:0.3s;}
 
 /* Hero */
 .hero { height:100vh; display:flex; align-items:stretch; justify-content:space-between; position:relative; overflow:hidden; }
